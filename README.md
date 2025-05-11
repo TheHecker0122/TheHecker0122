@@ -1,7 +1,7 @@
 # 💫 Обо мне:
 Я сейчас работаю над тасками в CTF ;)<br>Мне 17 <br>Изучаю кибербез, направление: наступательная безопасность и программирование.<br>Принимал участие: T CTF 2025, POLY WINTER CTF, "Уральский киберщит CTF"<br>Посиживаю на платформах: duckerz, TryHackMe, CodebyGames<br>
 Я на CTFTime: https://ctftime.org/user/224060<br>
-Я на ![THM](https://tryhackme.com/p/Mixail):
+Я на THM: https://tryhackme.com/p/Mixail
 <br>
 <img src="https://tryhackme-badges.s3.amazonaws.com/Mixail.png" alt="Your Image Badge" />
 <br>
