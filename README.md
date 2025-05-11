@@ -3,7 +3,7 @@
 Мне 17 <br>
 Изучаю кибербез, направление: наступательная безопасность и программирование.<br>
 Языки: SQL, HTML/CSS, Python<br>
-Принимал участие: T CTF 2025, POLY WINTER CTF(2025), "Уральский киберщит CTF" 2024, goit.space(Международная ИТ-олимпиада) 2025<br>
+Принимал участие в CTF: T CTF 2025, POLY WINTER CTF(2025), "Уральский киберщит CTF" 2024, goit.space(Международная ИТ-олимпиада) 2025<br>
 Посиживаю на платформах: duckerz, TryHackMe, CodebyGames <br><br>
 Я на CTFTime: https://ctftime.org/user/224060<br>
 Я на THM: https://tryhackme.com/p/Mixail
