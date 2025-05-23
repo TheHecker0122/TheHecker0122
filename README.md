@@ -6,6 +6,7 @@
 Принимал участие в CTF: T CTF 2025, POLY WINTER CTF(2025), "Уральский киберщит CTF" 2024, goit.space(Международная ИТ-олимпиада) 2025<br>
 Посиживаю на платформах: duckerz, TryHackMe, CodebyGames <br><br>
 Я на CTFTime: https://ctftime.org/user/224060<br>
+Актуальная тима: https://ctftime.org/team/385563<br>    
 Я на THM: https://tryhackme.com/p/Mixail
 <br>
 <img src="https://tryhackme-badges.s3.amazonaws.com/Mixail.png" alt="Your Image Badge" />
