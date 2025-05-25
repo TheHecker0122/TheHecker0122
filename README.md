@@ -3,7 +3,7 @@
 Мне 17 <br>
 Изучаю кибербез, направление: наступательная безопасность и программирование.<br>
 Языки: SQL, HTML/CSS, Python<br>
-Принимал участие в CTF: T CTF 2025, POLY WINTER CTF(2025), "Уральский киберщит CTF" 2024, goit.space(Международная ИТ-олимпиада) 2025<br>
+Принимал участие в CTF: [T CTF 2025](https://ctftime.org/team/381166), POLY WINTER CTF(2025), ["Уральский киберщит CTF" 2024 - "Котейки с компьютером"](https://chelyabinsk-news.net/society/2024/12/13/602288.html), goit.space(Международная ИТ-олимпиада) 2025<br>
 Посиживаю на платформах: duckerz, TryHackMe, CodebyGames <br><br>
 Я на CTFTime: https://ctftime.org/user/224060<br>
 Актуальная тима: https://ctftime.org/team/385563<br>    
@@ -20,4 +20,4 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=TheHecker0122&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=TheHecker0122&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- Привет :) -->
