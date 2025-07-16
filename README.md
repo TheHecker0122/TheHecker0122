@@ -4,7 +4,7 @@
 Мне 17 <br>
 Изучаю кибербез, направление: наступательная безопасность и программирование.<br>
 Языки: SQL, HTML/CSS, Python<br>
-Принимал участие в CTF: [T CTF 2025 -- Лига безопасности](https://ctftime.org/team/381166), POLY WINTER CTF(2025), ["Уральский киберщит CTF" 2024 - "Котейки с компьютером"](https://chelyabinsk-news.net/society/2024/12/13/602288.html), goit.space(Международная ИТ-олимпиада) 2025, учавствовал в A/D CTF от мифи(10 место, тима:  code:418)<br>
+Принимал участие в CTF: [T CTF 2025 -- Лига безопасности 223 место](https://ctftime.org/team/381166), POLY WINTER CTF(2025), ["Уральский киберщит CTF" 2024 - "Котейки с компьютером" - 1 место](https://chelyabinsk-news.net/society/2024/12/13/602288.html), goit.space(Международная ИТ-олимпиада) 2025, учавствовал в A/D CTF от мифи(10 место, тима:  code:418)<br>
 Посиживаю на платформах: duckerz, TryHackMe, CodebyGames <br><br>
 Я на CTFTime: https://ctftime.org/user/224060<br>
 Актуальная тима: https://ctftime.org/team/385563<br>    
