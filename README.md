@@ -29,7 +29,7 @@
 </details>
 
 <br>
-<br>Посиживаю на платформах: duckerz, TryHackMe, CodebyGames <br><br>
+
 Я на CTFTime: https://ctftime.org/user/224060<br>
 Я на THM: https://tryhackme.com/p/Mixail
 <br>
