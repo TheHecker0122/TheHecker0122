@@ -30,6 +30,10 @@
 
 <br>
 
+[Здесь мои writeup's](https://github.com/TheHecker0122/writeups)
+
+<br><br>
+
 Я на CTFTime: https://ctftime.org/user/224060<br>
 Я на THM: https://tryhackme.com/p/Mixail
 <br>
