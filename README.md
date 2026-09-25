@@ -1,14 +1,32 @@
-# 💫 Обо мне:
-
-Меня зовут Шустов Михаил, мне 18 <br>
-Изучаю кибербез, направление: наступательная безопасность и программирование.<br>
-Языки: SQL, HTML/CSS, Python<br>
+# 💫 About me:
 <br>
+
+
+<p align="center">🔴information security researcher🔴</p>
+
+
+<br><br>
+My name is *Mihail* <br>
+18 y.o.<br><br>
+
+Programming languages: SQL, HTML/CSS, Python<br>
+Tech: Linux, docker, VM, *...(I'll add more later...)* <br>
+cybersec skills: WEB(sqli, idor, xss, rce, lfi), LPE, WIFI attack, basic malware analysis, *...(I'll add more later..)* <br>
+Python frameworks: Flask, pandas, sqlite, aiogram, jinja2<br><br>
+
+Im russian student,me too: <br>
+Darknet researcher, CTF player, Python programmer, inf. sec. researcher.
+
+
+
+
+
+<br><br>
 <details>
-  <summary>Принимал участие в 10+ CTF соревнований</summary>
+  <summary>CTFs</summary>
   
   
-  Школьные/Студенческие:
+  School/student CTF:
   1) ["Уральский киберщит CTF" 2024 - "Котейки с компьютером" - 1 место](https://github.com/TheHecker0122/TheHecker0122/blob/main/ural.jpeg),<br>
   2) "InnoCTF Junior" 2025 - "kernel panic" - 33 место<br>
   3) ["POLY WINTER CTF" 2025](https://github.com/TheHecker0122/TheHecker0122/blob/main/mixail011.jpeg),<br>
@@ -18,7 +36,7 @@
   7) ["ВсОШ" 2026 - "Информационная безопасность" Региональный этап, 11 класс, 6 место](https://chiro74.ru/files/uploads/reg.etap_protokol/%D0%BF%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB_%D0%B6%D1%8E%D1%80%D0%B8_%D0%B8%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D0%B0%D1%8F_%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D1%8C__%D0%B8%D1%82%D0%BE%D0%B3%D0%BE%D0%B2%D1%8B%D0%B9.pdf), <br>
   
   
-  Профессиональные:
+  general CTFs:
   1) ["T CTF" 2025 - Лига безопасности - 223 место](https://ctftime.org/team/381166), 
   2) "goit.space" (Международная ИТ-олимпиада) 2025, <br>
   3) ["KubanCTF" 2025 - 19 место - "void exploit"](https://ctftime.org/team/402942), <br>
@@ -31,17 +49,19 @@
 
 <br>
 
-[Здесь мои writeup's](https://github.com/TheHecker0122/writeups)
+[My writeup's](https://github.com/TheHecker0122/writeups) *Coming..*
 
 <br><br>
 
-Я на CTFTime: https://ctftime.org/user/224060<br>
-Я на THM: https://tryhackme.com/p/Mixail
+CTFTime: https://ctftime.org/user/224060<br>
+THM: https://tryhackme.com/p/Mixail
 <br>
 <img src="https://tryhackme-badges.s3.amazonaws.com/Mixail.png" alt="Your Image Badge" />
 
 <br>
 
-<br>PGP pub key --> [*тык*](https://github.com/TheHecker0122/TheHecker0122/blob/main/publicKey.txt) <br>
+<br>PGP pub key --> [*.=.*](https://github.com/TheHecker0122/TheHecker0122/blob/main/publicKey.txt) <br>
 
-<!-- Привет :) -->
+<!-- Hiiii :) -->
+<!-- Brrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr -->
+<!-- shit code... dont tell me it, pls -->
