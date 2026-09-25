@@ -14,7 +14,10 @@ Tech: Linux, docker, VM, *...(I'll add more later...)* <br>
 cybersec skills: WEB(sqli, idor, xss, rce, lfi), LPE, WIFI attack, basic malware analysis, *...(I'll add more later..)* <br>
 Python frameworks: Flask, pandas, sqlite, aiogram, jinja2<br><br>
 
-Im russian student,me too: <br>
+Recon🔎 -> develop🛠 -> init. access🔓 -> persistence🔗 -> priv. esc.🔑 -> impact🔪 
+
+<br>
+Im russian student, me too: <br>
 Darknet researcher, CTF player, Python programmer, inf. sec. researcher.
 
 
